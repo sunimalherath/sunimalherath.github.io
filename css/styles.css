@@ -10692,4 +10692,5 @@ form .row:first-child .floating-label-form-group {
 .pp-footer {
   position: absolute;
   bottom: 0;
+  width: 100%;
 }
