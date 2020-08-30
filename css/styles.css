@@ -6499,14 +6499,14 @@ a.close.disabled {
 
 .bg-primary {
   /*background-color: #1abc9c !important;*/
-  background-color: #287e9d !important;
+  background-color: #42A0C3 !important;
 }
 
 a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #42a0c3 !important;
+  background-color: #287E9D !important;
 }
 
 .bg-secondary {
